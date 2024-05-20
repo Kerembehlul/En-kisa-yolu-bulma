@@ -1,2 +1,2 @@
 # En kisa yolu bulma
- Seçili harita üzerinden 2 nkta arasındak en kısa yolu bulmayı hedefleyen Jaava dilinde yazılmış bir proje
+ Seçili harita üzerinden 2 nokta arasındak en kısa yolu bulmayı hedefleyen Java dilinde yazılmış bir proje
